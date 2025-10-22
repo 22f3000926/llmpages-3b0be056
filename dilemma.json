@@ -1,0 +1,11 @@
+{
+  "people": 4,
+  "case_1": {
+    "swerve": true,
+    "reason": "Swerving to hit 1 person minimizes total fatalities compared to hitting 2 people; thus, it is the utilitarian choice to reduce harm."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "If the 2 people are criminals and the 1 person is a child, swerving to protect the child's vulnerable life is ethically preferable despite general utilitarian calculations; prioritizing innocence and potential is justified."
+  }
+}
